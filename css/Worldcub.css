@@ -1,0 +1,174 @@
+* {
+    box-sizing: border-box;
+}
+
+.osama {
+    display: flex;
+    padding-left: 100px;
+
+}
+
+.osama2 {
+    display: flex;
+    padding-left: 100px;
+
+}
+
+.osama3 {
+    display: flex;
+    padding-left: 100px;
+
+}
+
+body {
+    background-image: url(../images/خلفية\ كاس\ العالم\ 2.png);
+    color: rgb(255, 255, 255);
+    font-size: 22px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+div h2 {
+    text-align: center;
+
+}
+
+.one,
+.tow,
+.three,
+.four {
+    background-size: cover;
+    background-attachment: fixed;
+    width: 300px;
+    height: 370px;
+    border: 3px solid rgb(31, 97, 138);
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(151, 151, 167);
+    text-decoration: none;
+    overflow: hidden;
+    padding: 30px;
+    margin: 10px;
+    transition: all 0.3s ease;
+}
+
+.one:hover {
+    box-shadow: 0 0 50px rgb(126, 134, 134);
+}
+
+.tow:hover {
+    box-shadow: 0 0 50px rgb(126, 134, 134);
+}
+
+.three:hover {
+    box-shadow: 0 0 50px rgb(126, 134, 134);
+}
+
+.four:hover {
+    box-shadow: 0 0 50px rgb(126, 134, 134);
+}
+
+.Maksek {
+    padding-bottom: 10px;
+}
+
+div img {
+
+    width: 60px;
+    border-radius: 3px;
+
+}
+
+div span {
+    padding-left: 20px;
+    font-size: 26px;
+}
+
+.Five,
+.Six,
+.Seven,
+.Eight {
+    background-size: cover;
+    background-attachment: fixed;
+    width: 300px;
+    height: 350px;
+    border: 3px solid rgb(31, 97, 138);
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(151, 151, 167);
+    text-decoration: none;
+    overflow: hidden;
+    padding: 30px;
+    margin: 10px;
+    transition: all 0.3s ease;
+}
+
+.Nine,
+.Ten {
+    background-size: cover;
+    background-attachment: fixed;
+    width: 300px;
+    height: 350px;
+    border: 3px solid rgb(31, 97, 138);
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(151, 151, 167);
+    text-decoration: none;
+    overflow: hidden;
+    padding: 30px;
+    margin: 10px;
+    transition: all 0.3s ease;
+}
+
+.Eleven,
+.Twelve {
+    background-size: cover;
+    background-attachment: fixed;
+    width: 300px;
+    height: 350px;
+    border: 3px solid rgb(31, 97, 138);
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(151, 151, 167);
+    text-decoration: none;
+    overflow: hidden;
+    padding: 30px;
+    margin: 10px;
+    transition: all 0.3s ease;
+    font-size: 18px;
+}
+
+.Five:hover {
+    box-shadow: 0 0 50px rgb(126, 134, 134);
+}
+
+.Six:hover {
+    box-shadow: 0 0 50px rgb(126, 134, 134);
+}
+
+.Seven:hover {
+    box-shadow: 0 0 50px rgb(126, 134, 134);
+}
+
+.Eight:hover {
+    box-shadow: 0 0 50px rgb(126, 134, 134);
+}
+
+.Nine:hover {
+    box-shadow: 0 0 50px rgb(126, 134, 134);
+}
+
+.Ten:hover {
+    box-shadow: 0 0 50px rgb(126, 134, 134);
+}
+
+.Eleven:hover {
+    box-shadow: 0 0 50px rgb(126, 134, 134);
+}
+
+.Twelve:hover {
+    box-shadow: 0 0 50px rgb(126, 134, 134);
+
+}
